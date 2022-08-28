@@ -1,0 +1,25 @@
+station,year,rainfall,cloud_cover
+Brest,2011,991.7,Stratocumulus
+Brest,2012,1350.1,Cumulus
+Brest,2013,1243.4,Stratocumulus
+Brest,2014,1376.9,Cumulus
+Brest,2015,1169.2,Stratocumulus
+Brest,2016,1103.4,low clouds absent
+Le Puy,2011,617.4,Cumulus
+Le Puy,2012,682.2,low clouds absent
+Le Puy,2013,694.3000000000001,low clouds absent
+Le Puy,2014,736,low clouds absent
+Le Puy,2015,453.1,low clouds absent
+Le Puy,2016,707.3,low clouds absent
+Nancy,2011,762,low clouds absent
+Nancy,2012,769.4,low clouds absent
+Nancy,2013,940.4,low clouds absent
+Nancy,2014,687.7,low clouds absent
+Nancy,2015,584.1,low clouds absent
+Nancy,2016,774,low clouds absent
+Nice,2011,703.8,Stratocumulus
+Nice,2012,789.4,Stratocumulus
+Nice,2013,984.2,Stratocumulus
+Nice,2014,1236.9,Stratocumulus
+Nice,2015,547.2,low clouds absent
+Nice,2016,472.8,low clouds absent
