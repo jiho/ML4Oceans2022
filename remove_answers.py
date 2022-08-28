@@ -1,4 +1,9 @@
 #!/bin/env python
+#
+# Remove cells which contain the string ## ANSWER and produce
+# a new .ipynb without them = the student version.
+#
+# (c) 2022 Jean-Olivier Irisson, GNU General Public License v3
 
 import sys
 import nbformat
