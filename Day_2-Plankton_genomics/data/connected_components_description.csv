@@ -1,0 +1,235 @@
+CC,unknown_rate,kegg_ko,desc,class,max_kegg,max_mod,min_exl,n_station,sum_reads,n_genes
+CC_1007,0,ko:K01601,Belongs to the RuBisCO large chain family,Mamiellophyceae,5,3,1,46,2.3502343152541827,2
+CC_100893,0,ko:K00814,Aminotransferase class I and II,New_MAST-4,8,1,1,80,1.2554455445544557,1
+CC_1017826,0,ko:K01595,phosphoenolpyruvate carboxylase,Chloropicophyceae,7,7,1,47,0.35129068462401775,1
+CC_1021,12.5,"ko:K00026, NA","Malate dehydrogenase, NA",Mamiellophyceae,10,5,1,48,4.525764453966906,8
+CC_1025550,0,ko:K01595,phosphoenolpyruvate carboxylase activity,Pelagophyceae,7,7,1,24,0.23219553308048882,1
+CC_10384,0,ko:K01595,phosphoenolpyruvate carboxylase,Mamiellophyceae,7,7,1,24,1.227153413620542,4
+CC_1083266,0,ko:K00051,Malate dehydrogenase,Sister_Pycnococcus,5,1,1,26,0.3185185185185186,1
+CC_1083273,0,ko:K00026,Malate dehydrogenase,Sister_Pycnococcus,10,5,1,34,0.745760044386827,2
+CC_1083280,0,ko:K14272,"aminotransferase, Glutamate--glyoxylate aminotransferase",Sister_Pycnococcus,12,2,1,55,0.8611275059922138,2
+CC_1083289,0,ko:K00026,Malate dehydrogenase,Sister_Pycnococcus,10,5,1,20,0.07428040854224699,1
+CC_1083316,0,ko:K01602,"RuBisCO catalyzes two reactions the carboxylation of D- ribulose 1,5-bisphosphate, the primary event in carbon dioxide fixation, as well as the oxidative fragmentation of the pentose substrate. Both reactions occur simultaneously and in competition at the same active site",Sister_Pycnococcus,5,3,1,18,0.06666666666666665,1
+CC_10843,0,"ko:K01595, -",Phosphoenolpyruvate carboxylase,New_MAST-4,7,7,1,72,0.8725637125011474,2
+CC_1102109,0,ko:K00814,"Aminotransferase class I and II, alanine aminotransferase",Oomycota,8,1,1,85,0.8295295800723721,2
+CC_1102943,0,ko:K00026,Malate dehydrogenase,Oomycota,10,5,1,39,0.186897880539499,1
+CC_1115803,0,ko:K00025,Malate dehydrogenase,Prymnesiophyceae,11,5,1,85,0.8351648351648349,2
+CC_111932,0,ko:K00029,Malic enzyme,Bikosea,5,2,1,55,0.12965879265091868,1
+CC_113643,0,ko:K00029,malic enzyme,Mamiellophyceae,5,2,1,37,0.9934823091247671,1
+CC_1145593,0,ko:K01595,phosphoenolpyruvate carboxylase,Chloropicophyceae,7,7,1,53,0.4820619993033787,1
+CC_1146405,0,ko:K00029,"Malic enzyme, N-terminal domain",Chloropicophyceae,5,2,1,61,0.7052297939778132,2
+CC_1146447,0,ko:K00051,Malate dehydrogenase,Chloropicophyceae,5,1,1,32,0.3760488176964149,1
+CC_1148290,0,ko:K00814,alanine aminotransferase,Chloropicophyceae,8,1,1,42,0.40566037735849053,1
+CC_1148431,0,ko:K00029,malic enzyme,Chloropicophyceae,5,2,1,45,0.23753501400560217,1
+CC_116941,0,ko:K01595,phosphoenolpyruvate carboxylase activity,Prymnesiophyceae,7,7,1,68,0.3672612801678909,1
+CC_1185523,0,ko:K00026,Malate dehydrogenase,Chloropicophyceae,10,5,1,45,0.5907407407407407,1
+CC_1186094,0,ko:K00025,Malate dehydrogenase,Chloropicophyceae,11,5,1,44,0.7197875166002654,1
+CC_118810,0,ko:K14455,Aspartate aminotransferase,Prymnesiophyceae,18,2,1,96,1.500499824806016,7
+CC_1205326,0,ko:K00026,L-malate dehydrogenase activity,Myzozoa,10,5,1,66,0.5386243386243386,1
+CC_1207716,0,ko:K00026,L-malate dehydrogenase activity,Myzozoa,10,5,1,38,0.16901408450704228,1
+CC_122471,0,ko:K00814,alanine aminotransferase,Pelagophyceae,8,1,1,30,0.8636396177112788,2
+CC_1236841,0,"ko:K00025,ko:K00026",malate metabolic process,"NA",11,5,1,24,0.19901960784313721,1
+CC_1237350,0,ko:K01610,Phosphoenolpyruvate carboxykinase,Chloropicophyceae,9,2,1,14,0.05083514887436456,1
+CC_1246048,0,ko:K01595,Phosphoenolpyruvate carboxylase,Chrysophyceae,7,7,1,33,0.22285714285714292,1
+CC_125441,0,ko:K14455,Aminotransferase class I and II,New_MAST-4,18,2,1,34,0.30745098039215685,1
+CC_1278815,0,ko:K00029,malic enzyme,Mamiellophyceae,5,2,1,11,0.2491582491582492,2
+CC_1293621,50,"ko:K01610, NA","Phosphoenolpyruvate carboxykinase, NA",Myzozoa,9,2,1,63,0.4553382587280893,2
+CC_130580,0,ko:K00029,malic enzyme,Chloropicophyceae,5,2,1,24,1.0072178477690286,1
+CC_130729,0,ko:K01595,phosphoenolpyruvate carboxylase,Chloropicophyceae,7,7,1,62,16.47412634408602,1
+CC_137205,0,ko:K01006,pyruvate phosphate dikinase,Chloropicophyceae,6,4,1,13,0.4371327849588719,1
+CC_139007,0,ko:K00026,Malate dehydrogenase,Chloropicophyceae,10,5,1,52,13.438701115534752,3
+CC_140518,0,ko:K00029,malic enzyme,Mamiellophyceae,5,2,1,26,0.6690898345153665,2
+CC_143354,0,ko:K00814,Aminotransferase class I and II,Chrysophyceae,8,1,1,46,0.35583684950773575,1
+CC_143922,0,"ko:K00814,ko:K14272",alanine aminotransferase,Chrysophyceae,12,2,1,54,0.43278463648834037,1
+CC_14595,0,ko:K14455,Aminotransferase class I and II,Mamiellophyceae,18,2,1,36,1.7850396208862602,4
+CC_146082,0,ko:K01595,Phosphoenolpyruvate carboxylase,Chrysophyceae,7,7,1,22,0.3634651600753295,1
+CC_146285,0,ko:K00025,"lactate/malate dehydrogenase, NAD binding domain",Chrysophyceae,11,5,1,23,0.43148688046647243,1
+CC_15347,0,ko:K00025,Malate dehydrogenase,Mamiellophyceae,11,5,1,27,1.017017017017017,2
+CC_159143,0,ko:K14455,Aspartate aminotransferase,Bikosea,18,2,1,47,0.3617021276595746,1
+CC_16023,0,ko:K00029,"Malic enzyme, N-terminal domain",Mamiellophyceae,5,2,1,28,0.8207547169811322,1
+CC_160314,0,ko:K01595,phosphoenolpyruvate carboxylase activity,Chrysophyceae,7,7,1,80,1.0154548647699326,2
+CC_16576,0,ko:K00051,Malate dehydrogenase,Mamiellophyceae,5,1,1,51,7.520409188140105,11
+CC_17036,0,ko:K01595,phosphoenolpyruvate carboxylase,Mamiellophyceae,7,7,1,40,2.232399329035377,2
+CC_17069,0,ko:K00814,alanine aminotransferase,Mamiellophyceae,8,1,1,29,1.308720112517581,2
+CC_171655,0,"ko:K00814,ko:K14272",alanine aminotransferase,Dictyochophyceae,12,2,1,65,0.4152743102234171,2
+CC_178446,0,ko:K14455,Aspartate aminotransferase,Dictyochophyceae,18,2,1,61,0.8669590643274855,2
+CC_180598,0,ko:K01595,Phosphoenolpyruvate carboxylase,Chrysophyceae,7,7,1,69,0.5055228826593942,2
+CC_189523,0,ko:K01601,"RuBisCO catalyzes two reactions the carboxylation of D- ribulose 1,5-bisphosphate, the primary event in carbon dioxide fixation, as well as the oxidative fragmentation of the pentose substrate in the photorespiration process. Both reactions occur simultaneously and in competition at the same active site",Mediophyceae,5,3,1,77,0.5609243697478987,1
+CC_19192,0,ko:K00026,Malate dehydrogenase,Mamiellophyceae,10,5,1,49,2.1575552303200953,4
+CC_193447,0,ko:K00025,Malate dehydrogenase,New_MAST-4,11,5,1,77,1.1203407880724174,1
+CC_19458,0,ko:K01601,Belongs to the RuBisCO large chain family,Mamiellophyceae,5,3,1,24,0.670418006430868,1
+CC_19577,0,ko:K01006,pyruvate phosphate dikinase,Mamiellophyceae,6,4,1,24,0.20936936936936934,1
+CC_203670,0,ko:K00029,Malic enzyme,New_MAST-4,5,2,1,52,0.4294294294294294,1
+CC_2093,0,ko:K14455,Aspartate aminotransferase,Mamiellophyceae,18,2,1,26,1.6480286738351257,1
+CC_212187,0,ko:K01006,"Pyruvate phosphate dikinase, Pyruvate phosphate dikinase, PEP/pyruvate binding domain, Belongs to the PEP-utilizing enzyme family, Pyruvate, phosphate dikinase","Bacillariophyceae, NA, Bolidophyceae",6,4,1,31,0.6024831662172334,9
+CC_212355,0,ko:K14455,Aminotransferase class I and II,"Bacillariophyceae, Mediophyceae",18,2,1,39,0.3475060598820637,6
+CC_219695,0,ko:K00029,Malic enzyme,Oomycota,5,2,1,85,1.1076899666947064,2
+CC_222159,33.333333333333336,"ko:K14454, NA, ko:K14455","Aspartate aminotransferase, NA, Aminotransferase class I and II",Oomycota,18,2,1,92,1.920275044782423,3
+CC_225904,0,ko:K01595,phosphoenolpyruvate carboxylase activity,Oomycota,7,7,1,45,0.6208112874779542,1
+CC_225940,0,ko:K00814,Aminotransferase class I and II,Oomycota,8,1,1,45,0.33684210526315794,1
+CC_230974,0,ko:K01595,Phosphoenolpyruvate carboxylase,Bacillariophyceae,7,7,1,67,1.5263268856483618,7
+CC_233233,0,ko:K00814,Aminotransferase class I and II,Bacillariophyceae,8,1,1,32,0.20411985018726597,1
+CC_233659,0,ko:K01595,Phosphoenolpyruvate carboxylase,Bacillariophyceae,7,7,1,37,0.6282872875144695,2
+CC_236460,0,ko:K00029,Malic enzyme,Bacillariophyceae,5,2,1,64,0.6988991320691426,6
+CC_239895,0,ko:K00814,alanine aminotransferase,New_MAST-4,8,1,1,49,0.4650205761316873,1
+CC_241941,0,ko:K00814,"Alanine aminotransferase, alanine aminotransferase",Pyramimonadophyceae,8,1,1,27,0.34095201749946763,2
+CC_245769,0,ko:K14455,Aspartate aminotransferase,Pyramimonadophyceae,18,2,1,20,0.09412597310686482,1
+CC_246194,0,ko:K01006,pyruvate phosphate dikinase,Chloropicophyceae,6,4,1,58,1.4352240896358543,1
+CC_247832,0,ko:K00814,alanine aminotransferase,Chloropicophyceae,8,1,1,78,4.208200209492709,7
+CC_248132,0,"ko:K00028,ko:K00029",malic enzyme,Chloropicophyceae,5,3,1,65,1.4135755874747047,5
+CC_248322,0,ko:K00026,Malate dehydrogenase,Chloropicophyceae,10,5,1,63,1.3862728840857321,2
+CC_248856,33.333333333333336,"ko:K01595, NA","phosphoenolpyruvate carboxylase, NA",Chloropicophyceae,7,7,1,60,3.4941832884479918,3
+CC_249397,0,ko:K14455,Aspartate aminotransferase,Chloropicophyceae,18,2,1,52,1.263172640177106,3
+CC_249693,0,ko:K00029,malic enzyme,Chloropicophyceae,5,2,1,64,1.6760413248415604,2
+CC_249787,0,ko:K00026,Malate dehydrogenase,Chloropicophyceae,10,5,1,28,0.5764705882352941,2
+CC_251956,0,ko:K01595,phosphoenolpyruvate carboxylase,Chloropicophyceae,7,7,1,76,1.615660328293301,5
+CC_254176,0,ko:K01595,phosphoenolpyruvate carboxylase activity,Pelagophyceae,7,7,1,30,1.533449001051525,2
+CC_25440,0,ko:K00029,malic enzyme,Mamiellophyceae,5,2,1,16,2.112258202194595,3
+CC_26129,37.5,"-, ko:K00814, NA","-, Alanine aminotransferase, NA, alanine aminotransferase",Mamiellophyceae,8,1,1,45,4.8653649610035625,8
+CC_261630,0,ko:K01595,phosphoenolpyruvate carboxylase activity,Prymnesiophyceae,7,7,1,94,0.7463750905366939,5
+CC_263531,0,ko:K01006,"Pyruvate, phosphate dikinase, Pyruvate phosphate dikinase",Chrysophyceae,6,4,1,76,0.7970410706265414,4
+CC_26551,0,ko:K01006,pyruvate phosphate dikinase,Mamiellophyceae,6,4,1,32,1.169907434015269,3
+CC_270730,0,ko:K00814,"alanine aminotransferase, Aminotransferase class I and II",New_MAST-4,8,1,1,15,0.5684572105755734,4
+CC_270988,0,ko:K00025,"lactate/malate dehydrogenase, NAD binding domain",New_MAST-4,11,5,1,14,0.6923558597163407,3
+CC_271246,0,ko:K00025,"lactate/malate dehydrogenase, NAD binding domain",New_MAST-4,11,5,1,10,0.45708582834331335,2
+CC_272882,0,ko:K00029,Malic enzyme,New_MAST-4,5,2,1,10,0.13282828282828282,1
+CC_276482,0,ko:K00814,Alanine aminotransferase,Prymnesiophyceae,8,1,1,10,0.08639455782312924,1
+CC_27777,0,ko:K01601,"Ribulose bisphosphate carboxylase large chain, catalytic domain, ribulose-bisphosphate carboxylase activity",Mamiellophyceae,5,3,1,27,1.3783976984858874,3
+CC_28217,0,ko:K00026,Malate dehydrogenase,Mamiellophyceae,10,5,1,39,2.6174128462902724,5
+CC_29105,0,"ko:K00028,ko:K00029",malic enzyme,Mamiellophyceae,5,3,1,37,5.0404749339425585,7
+CC_292888,0,ko:K14455,Aspartate aminotransferase,Dictyochophyceae,18,2,1,59,0.7480438184663537,1
+CC_293846,0,ko:K01006,pyruvate phosphate dikinase,Dictyochophyceae,6,4,1,82,0.6449822107716845,2
+CC_297979,0,ko:K00814,"Alanine aminotransferase, Aminotransferase class I and II",Dictyochophyceae,8,1,1,60,1.0993401105760658,2
+CC_29940,0,ko:K01602,"RuBisCO catalyzes two reactions the carboxylation of D- ribulose 1,5-bisphosphate, the primary event in carbon dioxide fixation, as well as the oxidative fragmentation of the pentose substrate. Both reactions occur simultaneously and in competition at the same active site",Mamiellophyceae,5,3,1,40,3.233480795660743,3
+CC_301034,0,ko:K00029,malic enzyme,Chloropicophyceae,5,2,1,54,1.0522755227552276,1
+CC_3016,0,ko:K01602,"RuBisCO catalyzes two reactions the carboxylation of D- ribulose 1,5-bisphosphate, the primary event in carbon dioxide fixation, as well as the oxidative fragmentation of the pentose substrate. Both reactions occur simultaneously and in competition at the same active site",Mamiellophyceae,5,3,1,50,7.971588026382547,3
+CC_302942,33.333333333333336,"NA, -, ko:K01601","NA, Cupin domain, Belongs to the RuBisCO large chain family",Chloropicophyceae,5,3,1,57,0.9556010808846375,3
+CC_30305,0,ko:K00025,Malate dehydrogenase,Mamiellophyceae,11,5,1,45,3.4374119090933246,7
+CC_303052,0,ko:K01595,phosphoenolpyruvate carboxylase,Chloropicophyceae,7,7,1,56,0.6718587746625132,1
+CC_303058,0,ko:K00029,malic enzyme,Chloropicophyceae,5,2,1,49,0.3003663003663003,1
+CC_306194,0,ko:K14455,Aspartate aminotransferase,Oomycota,18,2,1,19,0.10805259776023499,2
+CC_30748,0,ko:K00029,"Malic enzyme, N-terminal domain",Mamiellophyceae,5,2,1,26,1.4220822691562736,3
+CC_310377,0,ko:K01610,phosphoenolpyruvate carboxykinase (ATP) activity,Cryptophyceae,9,2,1,43,0.7898164594434577,3
+CC_312579,0,"ko:K00024,ko:K00025,ko:K00026",malate metabolic process,Cryptophyceae,13,10,1,34,0.47910592808552005,1
+CC_317423,0,ko:K01595,phosphoenolpyruvate carboxylase activity,Cryptophyceae,7,7,1,27,0.09181226447413497,1
+CC_317839,0,"ko:K00024,ko:K00025,ko:K00026",malate metabolic process,Cryptophyceae,13,10,1,17,0.21463414634146344,1
+CC_3179,0,ko:K00026,Malate dehydrogenase,Mamiellophyceae,10,5,1,28,0.7162048698572627,1
+CC_318978,0,ko:K01595,"phosphoenolpyruvate carboxylase activity, Phosphoenolpyruvate carboxylase",Cryptophyceae,7,7,1,43,1.3908317730673014,5
+CC_319356,0,ko:K00814,alanine aminotransferase,Cryptophyceae,8,1,1,32,0.5896547337353382,2
+CC_324472,0,"-, ko:K00814","Alanine aminotransferase 2. Source PGD, alanine aminotransferase",Sister_Cryptophyta,8,1,1,15,0.11149257346033367,2
+CC_324514,0,ko:K00026,Malate dehydrogenase,Sister_Cryptophyta,10,5,1,14,0.11839708561020036,1
+CC_325421,0,ko:K01006,Belongs to the PEP-utilizing enzyme family,Sister_Cryptophyta,6,4,1,96,0.8406561590081183,6
+CC_328018,0,ko:K00026,"L-malate dehydrogenase activity. It is involved in the biological process described with oxidation-reduction process, Malate dehydrogenase","Hexanauplia, Crustacea",10,5,1,18,0.06135173226960122,15
+CC_329403,0,ko:K00029,malate dehydrogenase (decarboxylating) (NAD+) activity,Cryptophyceae,5,2,1,29,0.4713930348258707,1
+CC_331726,0,ko:K00814,alanine aminotransferase,Cryptophyceae,8,1,1,39,0.943007662835249,1
+CC_33572,0,ko:K00029,malic enzyme,Mamiellophyceae,5,2,1,30,0.9854369068858321,2
+CC_342561,0,ko:K00814,alanine aminotransferase,New_Stramenopiles,8,1,1,51,0.18858733472512182,1
+CC_347387,0,ko:K00025,Malate dehydrogenase,Prymnesiophyceae,11,5,1,32,0.2817684110301389,2
+CC_3492,25,"ko:K01601, NA","PFAM Ribulose bisphosphate carboxylase large, Ribulose bisphosphate carboxylase large chain, catalytic domain, NA",Mamiellophyceae,5,3,1,51,2.741780117242737,4
+CC_356516,0,ko:K01595,phosphoenolpyruvate carboxylase activity,Prymnesiophyceae,7,7,1,85,0.8503623060967991,4
+CC_3592,0,ko:K01006,pyruvate phosphate dikinase,Mamiellophyceae,6,4,1,33,1.576746458517833,2
+CC_36097,0,ko:K14455,Aminotransferase class I and II,Mediophyceae,18,2,1,28,1.0385849105969591,7
+CC_36295,0,ko:K00029,Malic enzyme,Mediophyceae,5,2,1,19,0.6368477103301384,1
+CC_364892,0,ko:K00025,Malate dehydrogenase,Sister_Cryptophyta,11,5,1,40,0.26758409785932724,1
+CC_365540,0,ko:K01595,phosphoenolpyruvate carboxylase activity,Sister_Cryptophyta,7,7,1,41,0.2054536906440996,1
+CC_365626,0,ko:K00814,Aminotransferase class I and II,Sister_Cryptophyta,8,1,1,40,0.18486795146324056,1
+CC_3692,50,"NA, ko:K01595","NA, phosphoenolpyruvate carboxylase",Mamiellophyceae,7,7,1,31,0.9707101546404547,2
+CC_371391,0,"ko:K00028, ko:K00029","malic enzyme, Malic enzyme",Sister_Cryptophyta,5,2,1,49,0.2766341002795556,3
+CC_377288,0,ko:K14455,"glutamate catabolic process to aspartate, L-aspartate:2-oxoglutarate aminotransferase activity, Aspartate aminotransferase, Aminotransferase class I and II",Hexanauplia,18,2,1,13,0.031637873513926364,6
+CC_380976,0,ko:K00814,alanine aminotransferase,Prymnesiophyceae,8,1,1,11,1.8259596806837008,2
+CC_385816,14.285714285714286,"ko:K00025, NA","L-malate dehydrogenase activity, Malate dehydrogenase, NA",Appendicularia,11,5,1,29,0.13152391191343202,7
+CC_4011,44.44444444444444,"ko:K00028,ko:K00029, NA","malic enzyme, NA",Mamiellophyceae,5,3,1,54,7.865186397508743,9
+CC_446627,0,ko:K14455,Aspartate aminotransferase,Prymnesiophyceae,18,2,1,82,0.6331775700934573,1
+CC_449764,0,ko:K00814,alanine aminotransferase,Prymnesiophyceae,8,1,1,81,1.0726312663485438,2
+CC_454199,0,ko:K00814,Aminotransferase class I and II,Mediophyceae,8,1,1,12,0.5435576421491914,1
+CC_455915,0,ko:K00814,"alanine aminotransferase, Aminotransferase class I and II",Mediophyceae,8,1,1,12,0.5175461175461176,2
+CC_459059,0,ko:K14455,Aspartate aminotransferase,Prymnesiophyceae,18,2,1,19,0.2014218009478673,1
+CC_459227,0,ko:K00814,"Aminotransferase class I and II, alanine aminotransferase",Prymnesiophyceae,8,1,1,91,0.5067132938533797,2
+CC_460042,0,ko:K14455,Aspartate aminotransferase,Prymnesiophyceae,18,2,1,91,4.051365169723802,5
+CC_460511,0,ko:K00024,Catalyzes the reversible oxidation of malate to oxaloacetate,Prymnesiophyceae,12,9,1,45,0.5636191133344832,3
+CC_465989,0,ko:K14454,"Aminotransferase class I and II, It is involved in the biological process described with cellular amino acid metabolic process, Glutamic-oxaloacetic transaminase 1, soluble, Aspartate aminotransferase, cytoplasmic, Aspartate aminotransferase",Hexanauplia,17,2,1,23,0.07499862874318754,11
+CC_49866,0,ko:K00029,"Malic enzyme, N-terminal domain",Mamiellophyceae,5,2,1,14,0.2915506035283194,1
+CC_501353,0,ko:K14454,Aspartate aminotransferase,Sister_Cryptophyta,17,2,1,68,0.4654720847703304,2
+CC_50897,0,ko:K00029,malic enzyme,Mamiellophyceae,5,2,1,17,0.9505941213258289,1
+CC_527472,0,ko:K14455,"Aspartate aminotransferase, glutamate catabolic process to aspartate, L-aspartate:2-oxoglutarate aminotransferase activity, aspartate aminotransferase, Aminotransferase class I and II",Hexanauplia,18,2,1,16,0.029791361639052726,9
+CC_529736,0,ko:K14455,Aspartate aminotransferase,Prymnesiophyceae,18,2,1,36,0.3031891655744866,1
+CC_534554,0,ko:K14454,Aminotransferase class I and II,Prymnesiophyceae,17,2,1,28,0.20841180163214063,1
+CC_539790,0,ko:K00814,alanine aminotransferase,Prymnesiophyceae,8,1,1,28,0.33113010709806445,3
+CC_541486,0,ko:K00025,L-malate dehydrogenase activity,Prymnesiophyceae,11,5,1,38,0.3503731574383748,2
+CC_545339,0,"ko:K14454, ko:K14454,ko:K14455",Aspartate aminotransferase,Myzozoa,18,2,1,67,1.1888001205908951,2
+CC_552781,0,ko:K01610,Phosphoenolpyruvate carboxykinase,Myzozoa,9,2,1,44,0.21351766513056847,1
+CC_561,0,ko:K00026,L-malate dehydrogenase activity,Mamiellophyceae,10,5,1,29,0.6824457593688364,1
+CC_5628,0,ko:K01006,"Belongs to the PEP-utilizing enzyme family, pyruvate phosphate dikinase",Mamiellophyceae,6,4,1,32,3.1500784928249534,4
+CC_56392,0,ko:K00814,"Aminotransferase class I and II, alanine aminotransferase",Pelagophyceae,8,1,1,24,0.5624338624338625,2
+CC_565104,0,ko:K00814,alanine aminotransferase,Myzozoa,8,1,1,59,0.3847222222222221,1
+CC_570230,0,ko:K00026,L-malate dehydrogenase activity,Myzozoa,10,5,1,56,0.2974806201550389,1
+CC_578523,0,ko:K14454,"Glutamic-oxaloacetic transaminase 1, soluble",Appendicularia,17,2,1,20,0.0615691253764838,4
+CC_579465,25,"ko:K00814, NA","Alanine aminotransferase, Glutamic pyruvate transaminase (alanine aminotransferase) 2, like, NA",Appendicularia,8,1,1,11,0.031233244355316075,4
+CC_58154,0,ko:K01610,phosphoenolpyruvate carboxykinase (ATP) activity,Pelagophyceae,9,2,1,29,0.5442834138486314,1
+CC_58323,0,ko:K14455,Aspartate aminotransferase,Pelagophyceae,18,2,1,20,1.052995391705069,1
+CC_585241,33.333333333333336,"ko:K14454,ko:K14455, ko:K14455, NA","Aminotransferase class I and II, Aspartate aminotransferase, NA",Appendicularia,18,2,1,27,0.101638992931828,9
+CC_591068,0,ko:K01595,phosphoenolpyruvate carboxylase activity,Pelagophyceae,7,7,1,47,0.9541751527494908,2
+CC_594320,0,ko:K00814,alanine aminotransferase,Pelagophyceae,8,1,1,20,0.7061488808202219,2
+CC_596670,0,ko:K14455,Aspartate aminotransferase,Pelagophyceae,18,2,1,44,0.7683883309421331,2
+CC_598828,0,ko:K00814,Aminotransferase class I and II,Pelagophyceae,8,1,1,41,0.04860010565240361,1
+CC_599267,0,ko:K00026,"lactate/malate dehydrogenase, NAD binding domain",Mediophyceae,10,5,1,11,0.17307930125220902,6
+CC_604116,0,ko:K00051,Malate dehydrogenase,Chloropicophyceae,5,1,1,60,0.6560106560106559,3
+CC_605051,0,ko:K01595,Phosphoenolpyruvate carboxylase,Chloropicophyceae,7,7,1,33,0.3831352574985852,1
+CC_608184,0,ko:K00814,alanine aminotransferase,"NA",8,1,1,12,1.0866290018832394,1
+CC_608340,0,ko:K14454,Aminotransferase class I and II,"NA",17,2,1,10,0.6666666666666667,1
+CC_612193,0,ko:K00814,alanine aminotransferase,Prymnesiophyceae,8,1,1,32,0.1277139208173691,1
+CC_612332,0,ko:K14454,Aspartate aminotransferase,Prymnesiophyceae,17,2,1,39,0.3888226198365362,2
+CC_618120,0,ko:K01610,phosphoenolpyruvate carboxykinase (ATP) activity,Prymnesiophyceae,9,2,1,77,0.8059962537778241,2
+CC_62880,0,ko:K00814,alanine aminotransferase,Mamiellophyceae,8,1,1,18,2.054852320675106,1
+CC_628908,0,ko:K14455,Aspartate aminotransferase,Prymnesiophyceae,18,2,1,67,3.701460538657376,2
+CC_63122,0,ko:K00029,malic enzyme,Mamiellophyceae,5,2,1,21,1.8079186730872123,1
+CC_632001,0,ko:K00029,"Malic enzyme, NAD binding domain",Prymnesiophyceae,5,2,1,36,0.13536379018612524,1
+CC_636699,0,ko:K01610,phosphoenolpyruvate carboxykinase (ATP) activity,Prymnesiophyceae,9,2,1,81,0.819050140909005,2
+CC_641860,0,"ko:K14454,ko:K14455",aspartate biosynthetic process,Pelagophyceae,18,2,1,11,0.047389558232931735,1
+CC_642508,0,"ko:K01595, -","phosphoenolpyruvate carboxylase activity, G/U mismatch-specific uracil-DNA glycosylase activity",Pelagophyceae,7,7,1,40,0.1578359500671269,3
+CC_64600,0,ko:K01006,pyruvate phosphate dikinase,Mamiellophyceae,6,4,1,17,1.889136904761905,1
+CC_64850,0,ko:K00026,Malate dehydrogenase,Mamiellophyceae,10,5,1,17,1.6127583108715184,1
+CC_65185,0,ko:K00029,"Malic enzyme, N-terminal domain",Mamiellophyceae,5,2,1,19,1.4148380355276902,1
+CC_658,0,ko:K01006,Pyruvate phosphate dikinase,Mamiellophyceae,6,4,1,20,0.440087145969499,1
+CC_6684,0,ko:K00026,L-malate dehydrogenase activity,Mamiellophyceae,10,5,1,28,1.1804878048780492,1
+CC_67110,0,ko:K00029,malic enzyme,Mamiellophyceae,5,2,1,20,1.8629629629629632,1
+CC_680215,0,ko:K00026,"lactate/malate dehydrogenase, NAD binding domain",Bacillariophyceae,10,5,1,33,0.28843697809215046,4
+CC_680433,0,ko:K00814,Aminotransferase class I and II,Bacillariophyceae,8,1,1,10,0.1459373282874014,2
+CC_68539,0,ko:K14455,Aspartate aminotransferase,"NA",18,2,1,10,0.7222222222222223,1
+CC_704176,0,ko:K00814,Aminotransferase class I and II,Prymnesiophyceae,8,1,1,66,3.4954361214684555,3
+CC_705334,0,ko:K14455,Aspartate aminotransferase,Prymnesiophyceae,18,2,1,14,0.790507580751483,2
+CC_710368,0,ko:K00814,"Aminotransferase class I and II, Alanine aminotransferase",Dictyochophyceae,8,1,1,73,1.2957751205002652,2
+CC_711078,0,ko:K14455,Aspartate aminotransferase,Dictyochophyceae,18,2,1,54,0.4373576309794988,1
+CC_72414,0,ko:K14454,"Aspartate aminotransferase, Aminotransferase class I and II",Prymnesiophyceae,17,2,1,59,1.4980284228992646,2
+CC_727638,0,ko:K00029,Malic enzyme,Mediophyceae,5,2,1,12,0.06538049303322616,1
+CC_72870,0,ko:K14455,Aspartate aminotransferase,Prymnesiophyceae,18,2,1,58,1.7221189283062894,2
+CC_728779,0,ko:K01006,"PEP-utilising enzyme, TIM barrel domain",Mediophyceae,6,4,1,11,0.024769950549908368,3
+CC_7344,0,ko:K00029,"Malic enzyme, N-terminal domain",Mamiellophyceae,5,2,1,48,3.551833757920202,4
+CC_76066,0,ko:K01610,phosphoenolpyruvate carboxykinase (ATP) activity,Prymnesiophyceae,9,2,1,98,5.504510132928683,11
+CC_780096,0,ko:K01006,"pyruvate, phosphate dikinase activity",Bikosea,6,4,1,12,0.22486522566458617,2
+CC_788264,0,ko:K01595,phosphoenolpyruvate carboxylase activity,Prymnesiophyceae,7,7,1,67,0.5290780141843975,1
+CC_789219,0,ko:K14455,Aspartate aminotransferase,Prymnesiophyceae,18,2,1,68,0.40740740740740766,1
+CC_793730,0,ko:K14455,Aspartate aminotransferase,Prymnesiophyceae,18,2,1,64,0.368562486509821,2
+CC_80637,0,"ko:K00025, ko:K00025,ko:K00026","Malate dehydrogenase, malate metabolic process",Prymnesiophyceae,11,5,1,91,2.664876255496016,5
+CC_80702,0,ko:K00814,alanine aminotransferase,"Prymnesiophyceae, Oomycota",8,1,1,98,4.042040771666846,16
+CC_817556,0,ko:K00814,alanine aminotransferase,Sister_Cryptophyta,8,1,1,45,0.18884120171673824,1
+CC_8315,0,ko:K01601,Belongs to the RuBisCO large chain family,Mamiellophyceae,5,3,1,39,1.9398477027072911,4
+CC_848137,0,ko:K00029,malate dehydrogenase (decarboxylating) (NAD+) activity,Cryptophyceae,5,2,1,23,0.09788359788359788,1
+CC_851179,0,ko:K14455,Aspartate aminotransferase,Prymnesiophyceae,18,2,1,23,0.11222780569514242,1
+CC_851554,0,ko:K00814,alanine aminotransferase,Prymnesiophyceae,8,1,1,63,0.35335444666073473,2
+CC_852087,0,ko:K14454,Aspartate aminotransferase,Prymnesiophyceae,17,2,1,38,0.1415025528811087,1
+CC_8744,0,ko:K01006,pyruvate phosphate dikinase,Mamiellophyceae,6,4,1,50,2.754816489909965,5
+CC_880291,0,ko:K00029,"Malic enzyme, N-terminal domain",Prymnesiophyceae,5,2,1,10,0.09126984126984126,1
+CC_884048,0,ko:K01595,phosphoenolpyruvate carboxylase activity,Prymnesiophyceae,7,7,1,68,0.5371223758320534,1
+CC_884182,0,ko:K14455,Aspartate aminotransferase,Prymnesiophyceae,18,2,1,90,2.541950113378684,3
+CC_886452,0,ko:K00026,Malate dehydrogenase,Mamiellophyceae,10,5,1,11,0.11822222222222221,1
+CC_898294,0,"ko:K00028,ko:K00029",malic enzyme,Chloropicophyceae,5,3,1,53,16.87438136973253,2
+CC_90311,0,ko:K00026,Malate dehydrogenase,"Dictyochophyceae, Oomycota",10,5,1,83,1.7619111557109253,3
+CC_90739,0,ko:K00029,Malic enzyme,Dictyochophyceae,5,2,1,83,0.9076089779261735,2
+CC_919686,0,ko:K01595,phosphoenolpyruvate carboxylase,Sister_Pycnococcus,7,7,1,54,1.2281214837266918,3
+CC_919838,0,ko:K01610,carboxykinase,Sister_Pycnococcus,9,2,1,40,0.36434108527131787,1
+CC_920084,0,ko:K00028,malic enzyme,Sister_Pycnococcus,5,1,1,34,0.3827345309381238,1
+CC_920157,0,ko:K00026,Malate dehydrogenase,Sister_Pycnococcus,10,5,1,34,0.3656509695290858,1
+CC_920613,0,ko:K00025,Malate dehydrogenase,Sister_Pycnococcus,11,5,1,38,0.5891792363557595,2
+CC_928992,0,ko:K14455,Aspartate aminotransferase,Sister_Cryptophyta,18,2,1,26,0.16559139784946236,1
+CC_9567,0,ko:K01006,pyruvate phosphate dikinase,Mamiellophyceae,6,4,1,47,1.4253137975468717,3
