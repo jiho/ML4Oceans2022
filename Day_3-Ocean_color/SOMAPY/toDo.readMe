@@ -1,0 +1,17 @@
+
+A faire :
+ - reprendre le calcul et l'affichage de la U-matrice
+ - pour le vote majoritaire prevoir un seuil de rejet + voir les votes et l'affichage des votes
+ - pour la CAH voir pour prendre en compte les cardinalités des neurones (+ tests sur les exemples)
+ - pour les neurones au milieu des données voir pour afficher la densité de points
+ - revoir les exemples pour aller un peu plus loin
+ - voir la tsne pour afficher donnees+neurones avec les arretes de la carte (+ indices des neurones)
+ - verifier les calculs d'erreurs
+ 
+A reflechir :
+ - mutualiser les affichages de la carte (+ affichage simple voisinage de la carte)
+ - possibilité d'affichage des neurones vides en blanc
+ - normalisation et denormalisation des données
+ - rationnaliser les modules utilisés dans sompy
+ 
+ 
